@@ -8,7 +8,7 @@ html {
 
 body {
     margin: 0 auto;
-    padding: 2rem;
+    padding: 6rem 2rem 2rem;
     font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', 'Arial', sans-serif;
     font-size: 1em;
     line-height: 1.3;
@@ -17,6 +17,29 @@ body {
     max-width: 50rem;
 }
 
+body:before {
+    content: 'This is an archived version of an email sent to the Purpler Monkey Game Jam mailing list.';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 1rem 2rem;
+    font-size: .9rem;
+    color: #fff;
+    text-align: center;
+    background-color: #654B9A;
+}
+
 a {
+    display: inline-block;
+    max-width: 100%;
     color: #654B9A;
+    overflow: hidden;
+    vertical-align: bottom;
+    text-overflow: ellipsis;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
