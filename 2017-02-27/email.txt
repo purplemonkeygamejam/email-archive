@@ -1,0 +1,23 @@
+You're receiving this because you previously registered for the Purple Monkey Game Jam.
+
+Register for the event on Meetup.com!
+
+Hello, %recipient_fname%!
+
+I am happy to announce that the next Purple Monkey Game Jam is taking place the weekend of April 22nd!
+
+It's been almost a year since the last time we held an event, and the team and I are looking at ways to improve that. The goal is to start hosting a PMGJ every three to four months (of the same year). We will be making a few small changes to the event in order to facilitate this:
+
+The first change is that the event will no longer be free - I know this will come as a surprise to those of you who have attended previous game jams. Simply put, hosting an event of this magnitude requires sponsorship to keep it afloat. The entrance fee will be $10 per person, and it will go towards food and snacks, as well as other operational costs.
+
+The other change we are planning is to have a follow-up event for showcasing games a week after the game jam. This will allow people to spend the entire weekend focusing on building cool games! We know that a tight deadline is a great motivator, however, the separate showcase gives everyone the opportunity to demo, discuss, and play all the games. It also allows for more time to squash all those pesky bugs that tend to reveal themselves at the final hour.
+
+A keynote and theme announcement will take place at the beginning of the first day, followed by the rest of Saturday and all of Sunday to build awesome games. Cantina has graciously offered to host us again. The date and location of the showcase night will be announced closer to the event.
+
+Looking forward to seeing you in April!
+
+- Scott
+
+https://www.meetup.com/purplemonkeygamejam/events/237966197/
+http://purplemonkeygamejam.com
+https://twitter.com/@purplemonkeygj
