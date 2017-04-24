@@ -18,7 +18,7 @@ body {
 }
 
 body:before {
-    content: 'This is an archived version of an email sent to the Purpler Monkey Game Jam mailing list.';
+    content: 'This is an archived version of an email sent to the Purple Monkey Game Jam mailing list.';
     position: absolute;
     top: 0;
     left: 0;
