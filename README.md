@@ -1,4 +1,4 @@
-# Purple Monkey Game Jame Email Archive
+# Purple Monkey Game Jam Email Archive
 
 ## Purple Monkey Game Jam IX
 
