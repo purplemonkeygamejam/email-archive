@@ -5,6 +5,7 @@
 ### May 19th - 20th 2018
 
 - [Announcement Email](PMGJ-IX/2018-03-22/)
+- [Theme Survey Email](PMGJ-IX/2018-04-26/)
 
 ## Purple Monkey Game Jam VIII
 
