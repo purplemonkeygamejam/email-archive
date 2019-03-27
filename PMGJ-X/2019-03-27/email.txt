@@ -2,7 +2,7 @@ You're receiving this because you previously registered for the Purple Monkey Ga
 
 Register for the event on Meetup.com!
 
-Hello, %recipient_fname%!
+Hello, *|FULLNAME|*!
 
 It's that time of year again; GDC has wrapped up, PAX East is upon us, and the Purple Monkey Game Jam is right around the corner. This year the game jam will take place on May 18th and 19th, hosted by Cantina in downtown Boston. The hours are the same as last year with doors opening at 9 am and closing at 6 pm both Saturday and Sunday.
 
